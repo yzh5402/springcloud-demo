@@ -8,6 +8,6 @@
 out
 gen
 #.gitignore
-*/src/
+#*/src/
 */target/
 *.log

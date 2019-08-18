@@ -1,0 +1,14 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: system
+logging:
+  path: ./log/systen
+
+oss:
+  endPoint: http://oss-cn-hangzhou.aliyuncs.com
+  bucket: yzh-test-standard
+  accessKeyId: LTAIRvaIzkA72VmX
+  accessKeySecret: eISsVyETI5wqIIrfeUZQEcez5y0UEq
